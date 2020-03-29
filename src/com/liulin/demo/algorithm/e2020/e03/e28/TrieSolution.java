@@ -25,7 +25,7 @@ import java.util.Arrays;
  *
  * Create by DbL on 2020/3/28 0028
  */
-public class Solution {
+public class TrieSolution {
     public static void main(String[] args) {
         String[] strings = new String[]{"time","me","bell","la","ll"};
         System.out.println(minimumLengthEncoding(strings));
