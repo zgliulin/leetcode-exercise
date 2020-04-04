@@ -1,6 +1,4 @@
-package com.liulin.demo.algorithm.e2020.e04.e2;
-
-import java.util.Arrays;
+package com.liulin.demo.algorithm.e2020.e04.e02;
 
 /**
  * 给定一个包含 m × n 个格子的面板，每一个格子都可以看成是一个细胞。每个细胞都具有一个初始状态：1 即为活细胞（live），
