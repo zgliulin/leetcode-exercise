@@ -10,8 +10,8 @@ public class catchrain {
         int[] c = {1, 2, 1, 2, 3};
         int[] d = {8,2,8,9,0,1,7,7,9};
         System.out.println(trap(b));
-    }
 
+    }
     public static int trap(int[] height) {
         int n = height.length;
         if (n < 2) return 0;
